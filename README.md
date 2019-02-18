@@ -15,5 +15,5 @@ This repository is under construction. The intention is that is offers a descrip
 |[Motivations](documentation/motivations.md)    |
 |[Gallery](media/gallery.md)                    |
 |[How to be a human vegan](documentation/how.md)|
-|[Restaurants](documentation/restaurants.md)    |
+|[Restaurants](restaurants)                     |
 |[Recipes](documentation/recipes.md)            |
