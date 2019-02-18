@@ -10,10 +10,11 @@ This repository is under construction. The intention is that is offers a descrip
 
 ---
 
-|**Contents**                                   |
-|-----------------------------------------------|
-|[Motivations](documentation/motivations.md)    |
-|[Gallery](media/gallery.md)                    |
-|[How to be a human vegan](documentation/how.md)|
-|[Restaurants](restaurants)                     |
-|[Recipes](recipes)                             |
+|**Contents**                                           |
+|-------------------------------------------------------|
+|[Motivations](documentation/motivations.md)            |
+|[PETA Vegan Starter Kit](documentation/PETA-UK-VSK.pdf)|
+|[Gallery](media/gallery.md)                            |
+|[How to be a human vegan](documentation/how.md)        |
+|[Restaurants](restaurants)                             |
+|[Recipes](recipes)                                     |
