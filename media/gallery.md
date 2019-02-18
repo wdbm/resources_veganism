@@ -17,4 +17,4 @@
 |![](Samuelsmithstout.JPG)                                  |![](RqNBwiw.jpg)                                         |
 |![](9wefbcmjue821.jpg)                                     |![](a26nza0i8v921.jpg)                                   |
 
-[# They are people too.](https://twitter.com/ionaskye_/status/1094184513230516224)
+[They are people too.](https://twitter.com/ionaskye_/status/1094184513230516224)
