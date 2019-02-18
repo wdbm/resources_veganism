@@ -16,4 +16,4 @@ This repository is under construction. The intention is that is offers a descrip
 |[Gallery](media/gallery.md)                    |
 |[How to be a human vegan](documentation/how.md)|
 |[Restaurants](restaurants)                     |
-|[Recipes](documentation/recipes.md)            |
+|[Recipes](recipes)                             |
