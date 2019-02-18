@@ -13,7 +13,7 @@ This repository is under construction. The intention is that is offers a descrip
 |**Contents**                                   |
 |-----------------------------------------------|
 |[Motivations](documentation/motivations.md)    |
-|[Gallery](documentation/gallery.md)            |
+|[Gallery](media/gallery.md)                    |
 |[How to be a human vegan](documentation/how.md)|
 |[Restaurants](documentation/restaurants.md)    |
 |[Recipes](documentation/recipes.md)            |
