@@ -10,11 +10,12 @@ This repository is under construction. The intention is that is offers a descrip
 
 ---
 
-|**Contents**                                           |
-|-------------------------------------------------------|
-|[Motivations](documentation/motivations.md)            |
-|[PETA Vegan Starter Kit](documentation/PETA-UK-VSK.pdf)|
-|[Gallery](media/gallery.md)                            |
-|[How to be a human vegan](documentation/how.md)        |
-|[Restaurants](restaurants)                             |
-|[Recipes](recipes)                                     |
+|**Contents**                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+|[Motivations](documentation/motivations.md)                                                                                              |
+|[PETA Vegan Starter Kit](documentation/PETA-UK-VSK.pdf)                                                                                  |
+|[Gallery](media/gallery.md)                                                                                                              |
+|[How to be a human vegan](documentation/how.md)                                                                                          |
+|[*Free* and *cheap* food in Glasgow](restaurants/Glasgow/free_and_cheap_food/documentation/2012-08-15_free_and_cheap_food_in_Glasgow.pdf)|
+|[Restaurants](restaurants)                                                                                                               |
+|[Recipes](recipes)                                                                                                                       |
