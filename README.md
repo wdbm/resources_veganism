@@ -17,5 +17,5 @@ This repository is under construction. The intention is that is offers a descrip
 |[Gallery](media/gallery.md)                                                                                                              |
 |[How to be a human vegan](documentation/how.md)                                                                                          |
 |[*Free* and *cheap* food in Glasgow](restaurants/Glasgow/free_and_cheap_food/documentation/2012-08-15_free_and_cheap_food_in_Glasgow.pdf)|
-|[Restaurants](restaurants)                                                                                                               |
+|[Restaurants and markets](restaurants)                                                                                                   |
 |[Recipes](recipes)                                                                                                                       |
