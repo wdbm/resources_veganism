@@ -20,7 +20,3 @@
 - The Hug and Pint
 - The V&V Cafe
 - Vegan Burd
-
-# markets
-
-- <https://www.citypropertymarkets.co.uk/?doing_wp_cron=1469368722.0619089603424072265625>
