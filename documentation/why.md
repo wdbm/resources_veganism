@@ -1,4 +1,4 @@
-# Motivations
+# Motivations/Why?
 
 <not yet written!>
 
@@ -6,6 +6,9 @@ but broadly:
 
 - help save ecosystems
 - help reduce suffering
+    - help reduce incarceration without verified consent
+    - help reduce killing without verified consent
+    - help reduce impregnation (rape, de facto without consent)
 - be healthier
 - have fun cooking and tasting
 
