@@ -1,6 +1,6 @@
 # Motivations/Why?
 
-<not yet written!>
+![system undergoing changes](https://i.imgur.com/GniItjS.gif)
 
 but broadly:
 
