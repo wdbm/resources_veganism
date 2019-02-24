@@ -2,11 +2,13 @@
 
 Grabbing Veganism by the Bulbs!
 
+![](https://raw.githubusercontent.com/wdbm/resources_veganism/master/media/2019-02-21-164033_Ellis_Kay.jpg)
+
 ---
 
 ![system undergoing changes](https://i.imgur.com/GniItjS.gif)
 
-This repository is under construction. The intention is that is offers a description of veganism and the motivations for it, then it describes how humans can do it safely, then it lists some vegan-compatible restaurants and markets, *and then* it outlines recipies for some **very fine cuisine**.
+This repository is under construction. The intention is that is offers a description of veganism and the motivations for it, then it describes how it can bedone safely, then it lists some vegan-compatible restaurants and markets, *and then* it outlines recipies for some **very fine cuisine**.
 
 ---
 
