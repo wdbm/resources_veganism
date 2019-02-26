@@ -12,7 +12,7 @@ This repository is under construction. The intention is that is offers a descrip
 
 ---
 
-|**Contents**                                                                                                                                         |***Commanents**                                                                                      |
+|**Contents**                                                                                                                                         |**Comments**                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |[Motivations](documentation/why.md)                                                                                                                  |                                                                                                     |
 |[PETA Vegan Starter Kit](documentation/PETA-UK-VSK.pdf)                                                                                              |                                                                                                     |
