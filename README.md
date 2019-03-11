@@ -4,6 +4,8 @@ Grabbing Veganism by the Bulbs!
 
 ![](https://raw.githubusercontent.com/wdbm/resources_veganism/master/media/2019-02-21-164033_Ellis_Kay.jpg)
 
+-- photograph by Ellis Kay
+
 ---
 
 ![system undergoing changes](https://i.imgur.com/GniItjS.gif)
