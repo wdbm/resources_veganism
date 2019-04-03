@@ -16,7 +16,7 @@
 - curry powder (mustard)
 - rapeseed oil
 - salt
-- lime puree
+- lime purée
 - cumin
 - chilli flakes
 - paprika
