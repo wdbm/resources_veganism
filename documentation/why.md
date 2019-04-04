@@ -10,6 +10,8 @@
     - help reduce killing without verified consent
     - help reduce impregnation (rape, de facto without consent)
 - be healthier
+    - [*Bad diets killing more people globally than tobacco, study finds*](https://www.theguardian.com/society/2019/apr/03/bad-diets-killing-more-people-globally-than-tobacco-study-finds) (2019-04-03)
+        - [*Health effects of dietary risks in 195 countries, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017*](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2819%2930041-8) (2017)
 - have fun cooking and tasting
 
 [According to UN research](http://www.fao.org/3/a-i3437e.pdf), the animal industry accounts for ~ 14.5 % of *all* human-made greenhouse gas emissions. Note that this is slighly more than **all** of the global exhaust exissions of trains, planes and automobiles, and ships, [according to the Royal Institute of International Fairs (Chatham House)](https://www.chathamhouse.org/sites/default/files/publications/research/CHHJ3820%20Diet%20and%20climate%20change%2018.11.15_WEB_NEW.pdf) (see page 55), who themselves report those numbers from research of the UN and the Intergovernmental Panel on Climate Change (IGPCC). The Chatham House further reports (via two references) that humans who don't take animal products produce about **half** or the greenhouse gases of those who do [[ref](https://www.pnas.org/content/pnas/early/2016/03/16/1523119113.full.pdf)].
