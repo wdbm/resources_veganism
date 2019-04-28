@@ -13,6 +13,13 @@ but broadly (and incompletely!, and not as medical advice!):
 - zinc
 - other things
 
+# the evolution of plant protein
+
+- [*The Evolution of Plant Protein: Assessing Consumer Response*](https://www.mpi.govt.nz/dmsdocument/29141-the-evolution-of-plant-protein-assessing-consumer-response-report) -- Ministry for Primary Industries and Plant & Food Research (2018-07-01)
+- [*Opportunities in plant based foods -- PROTEIN*](https://www.mpi.govt.nz/dmsdocument/29147-opportunities-in-plant-based-foods-protein-report) -- Plant & Food Research (2018-05)
+- [*The Impossible Burger: Consumer Insights*](https://www.mpi.govt.nz/dmsdocument/29144-impossible-burger-case-study-report) -- Ministry for Primary Industries and Plant & Food Research
+- [*Protein: A Chinese Perspective: An on-line consumer survey conducted in China*](https://www.mpi.govt.nz/dmsdocument/29150-protein-a-chinese-perspective-report) -- Tracey Phelps, The New Zealand Institute for Plant & Food Research Limited
+
 # gout protections
 
 - [*Serum Uric Acid Concentrations in Meat Eaters, Fish Eaters, Vegetarians and Vegans: A Cross-SectionalAnalysis in the EPIC-Oxford Cohort*](https://sci-hub.tw/10.1371/journal.pone.0056339) (2013)
