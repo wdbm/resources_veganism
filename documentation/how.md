@@ -5,6 +5,7 @@
 but broadly (and incompletely!, and not as medical advice!):
 
 - B12
+    - [Boost Daily Vitamin B12 Oral Spray 1200 μg 25 ml](https://www.amazon.co.uk/BetterYou-Boost-B12-Oral-Spray/dp/B008FMBNZG)
 - D3
     - [Solgar vitamin D3 (cholecalciferol) 4000 IU 100 µg 120 tablets](https://www.amazon.co.uk/Solgar-Vitamin-Cholecalciferol-Vegetable-Capsules/dp/B00X0ZCE2O)
 - vitamin C
