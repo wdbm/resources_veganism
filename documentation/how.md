@@ -10,13 +10,13 @@ but broadly (and incompletely!, and not as medical advice!):
     - [Solgar vitamin D3 (cholecalciferol) 4000 IU 100 µg 120 tablets](https://www.amazon.co.uk/Solgar-Vitamin-Cholecalciferol-Vegetable-Capsules/dp/B00X0ZCE2O)
 - vitamin C
     - [Solgar vitamin C with rose hips 90 1500 mg tablets](https://www.amazon.co.uk/gp/product/B0001VW4CA)
-- calcium
+- calcium, magnesium, zinc
+    - [Solgar calcium 1000 mg, magnesium 500 mg plus zinc 15 mg -- 250 tablets]()
+- zinc
+    - [Solgar zinc 100 50 mg tablets](https://www.amazon.co.uk/gp/product/B000A6LUC6)
 - omega-3 (from flaxeed oil)
 - iron
     - [Truvit Naturals iron 100 50 mg tablets](https://www.amazon.co.uk/gp/product/B07GNLRFWH)
-- magnesium
-- zinc
-    - [Solgar zinc 100 50 mg tablets](https://www.amazon.co.uk/gp/product/B000A6LUC6)
 - other things
 
 # the evolution of plant protein
