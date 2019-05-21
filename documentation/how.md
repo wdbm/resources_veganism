@@ -18,9 +18,9 @@ Every parent who breastfeeds is feeding their child a vegan diet. Every major di
 
 - "A well-planned, balanced vegetarian or vegan diet can be nutritionally adequate ... Studies of UK vegetarian and vegan children have revealed that their growth and development are within the normal range." -- [The British Nutrition Foundation](http://www.nutrition.org.uk/publications/briefingpapers/vegetarian-nutrition)
 
-- "Vegan diets are a type of vegetarian diet, where only plant-based foods are eaten. With planning, those following a vegan diet can cover all their nutrient bases, but there are some extra things to consider." [Dietitians Association of Australia](https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegan-diets-facts-tips-and-considerations)
+- "Vegan diets are a type of vegetarian diet, where only plant-based foods are eaten. With planning, those following a vegan diet can cover all their nutrient bases, but there are some extra things to consider." -- [Dietitians Association of Australia](https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegan-diets-facts-tips-and-considerations)
 
-- "Traditionally, research into vegetarianism focused mainly on potential nutritional deficiencies, but in recent years, the pendulum has swung the other way, and studies are confirming the health benefits of meat-free eating. Nowadays, plant-based eating is recognized as not only nutritionally sufficient but also as a way to reduce the risk for many chronic illnesses." [Harvard Medical School](http://www.health.harvard.edu/staying-healthy/becoming-a-vegetarian)
+- "Traditionally, research into vegetarianism focused mainly on potential nutritional deficiencies, but in recent years, the pendulum has swung the other way, and studies are confirming the health benefits of meat-free eating. Nowadays, plant-based eating is recognized as not only nutritionally sufficient but also as a way to reduce the risk for many chronic illnesses." -- [Harvard Medical School](http://www.health.harvard.edu/staying-healthy/becoming-a-vegetarian)
 
 but broadly (and incompletely!, and not as medical advice!):
 
