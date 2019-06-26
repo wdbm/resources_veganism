@@ -2,6 +2,26 @@
 
 ![system undergoing changes](https://i.imgur.com/GniItjS.gif)
 
+# What is veganism?
+
+The term "vegan" was coined by The Vegan Society. They define it as:
+
+- "Veganism is a way of living that seeks to exclude, as far as possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing and any other purpose."
+
+Every parent who breastfeeds is feeding their child a vegan diet. Every major dietetic organization in the world agrees that appropriately planned vegetarian and vegan diets are healthy for all stages of life.
+
+- "It is the position of the Academy of Nutrition and Dietetics that appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases. These diets are appropriate for all stages of the life cycle, including pregnancy, lactation, infancy, childhood, adolescence, older adulthood, and for athletes." -- [Academy of Nutrition and Dietetics](https://www.ncbi.nlm.nih.gov/pubmed/27886704)
+
+- "A healthy vegan diet can meet all your nutrient needs at any stage of life including when you are pregnant, breastfeeding or for older adults." -- [Dietitians of Canada](https://www.dietitians.ca/Downloads/Factsheets/Guidlines-for-Vegans.aspx)
+
+- "With good planning and an understanding of what makes up a healthy, balanced vegan diet, you can get all the nutrients your body needs." -- [The British National Health Service](http://www.nhs.uk/Livewell/Vegetarianhealth/Pages/Vegandiets.aspx)
+
+- "A well-planned, balanced vegetarian or vegan diet can be nutritionally adequate ... Studies of UK vegetarian and vegan children have revealed that their growth and development are within the normal range." -- [The British Nutrition Foundation](http://www.nutrition.org.uk/publications/briefingpapers/vegetarian-nutrition)
+
+- "Vegan diets are a type of vegetarian diet, where only plant-based foods are eaten. With planning, those following a vegan diet can cover all their nutrient bases, but there are some extra things to consider." -- [Dietitians Association of Australia](https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegan-diets-facts-tips-and-considerations)
+
+- "Traditionally, research into vegetarianism focused mainly on potential nutritional deficiencies, but in recent years, the pendulum has swung the other way, and studies are confirming the health benefits of meat-free eating. Nowadays, plant-based eating is recognized as not only nutritionally sufficient but also as a way to reduce the risk for many chronic illnesses." -- [Harvard Medical School](http://www.health.harvard.edu/staying-healthy/becoming-a-vegetarian)
+
 but broadly (and incompletely!, and not as medical advice!):
 
 - B12
