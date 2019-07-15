@@ -25,3 +25,9 @@ This repository is under construction. The intention is that is offers a descrip
 |[Restaurants and markets](restaurants_and_markets)                                                                                                   |                                                                                                     |
 |[Recipes](recipes)                                                                                                                                   |                                                                                                     |
 |[Multivariate analysis techniques in veganism](mva.md)                                                                                               |                                                                             |
+
+---
+
+As a wise -- indeed, woke -- person once said in the early days of internet,
+
+![](media/A_year_into_your_vegan_identity.jpg)
