@@ -23,8 +23,10 @@ This repository is under construction. The intention is that is offers a descrip
 |[*Free* and *cheap* food in Glasgow](restaurants_and_markets/Glasgow/free_and_cheap_food/documentation/2012-08-15_free_and_cheap_food_in_Glasgow.pdf)|                                                                                                     |
 |[*How India Cooks Lunch for 50,000 People for FREE! The MIRACLE in Punjab, India.*](https://www.youtube.com/watch?v=qdoJroKUwu0)                     |A documentary on the continuous food output produced by The Golden Temple/Darbar Sahib of Amritsar.  |
 |[Restaurants and markets](restaurants_and_markets)                                                                                                   |                                                                                                     |
-|[Recipes](recipes)                                                                                                                                   |                                                                                                     |
-|[Multivariate analysis techniques in veganism](mva.md)                                                                                               |                                                                             |
+|[Recipes](documentation/recipes.md)                                                                                                                  |                                                                                                     |
+|[Cheese](documentation/cheese.md)                                                                                                                    |cheese alteriatives etc.                                                                             |
+|[Legal](documentation/legal.md)                                                                                                                      |laws, vegan rights etc.                                                                              |
+|[Multivariate analysis techniques in veganism](mva.md)                                                                                               |                                                                                                     |
 
 ---
 
